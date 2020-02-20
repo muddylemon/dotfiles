@@ -18,6 +18,8 @@ brew 'npm'
 brew 'nvm'
 brew 'applesimutils'
 brew 'cocoapods'
+brew 'youtube-dl'
+brew 'ffmpeg'
 # lets pretend we use tmux
 brew 'tmux'
 brew 'jq' # just qidding
@@ -34,9 +36,12 @@ cask 'font-input'
 cask 'iterm2'
 cask 'visual-studio-code'
 cask 'atom'
+cask 'sourcetree'
 cask 'android-studio'
 cask 'java'
 cask 'android-platform-tools'
+cask 'detox-instruments'
+cask 'docker'
 
 #browser war 4ever
 cask 'firefox'
@@ -46,8 +51,10 @@ cask 'brave-browser'
 
 # motley assortment
 cask 'alfred'
+cask 'aerial'
 cask 'macdown'
 cask 'spectacle'
+cask 'cheatsheet'
 cask 'vlc'
 cask 'gimp'
 cask 'slack'
