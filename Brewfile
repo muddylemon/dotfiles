@@ -5,6 +5,7 @@ tap 'wix/brew'
 
 brew 'z'
 brew 'git'
+brew 'git-gui'
 brew 'ack'
 brew 'fasd'
 brew 'wget'
@@ -41,7 +42,7 @@ cask 'android-studio'
 cask 'java'
 cask 'android-platform-tools'
 cask 'detox-instruments'
-cask 'docker'
+cask 'react-native-debugger'
 
 #browser war 4ever
 cask 'firefox'
