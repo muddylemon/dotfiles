@@ -21,10 +21,7 @@ brew 'applesimutils'
 brew 'cocoapods'
 brew 'youtube-dl'
 brew 'ffmpeg'
-# lets pretend we use tmux
-brew 'tmux'
-brew 'jq' # just qidding
-brew 'reattach-to-user-namespace' # tmux drama
+
 
 # first, get some weird fonts
 cask 'font-fira-code'
